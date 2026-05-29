@@ -1,0 +1,5701 @@
+[
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "timestamp": "2026-05-29T11:34:55.614127"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "timestamp": "2026-05-29T11:34:55.684997"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "timestamp": "2026-05-29T11:34:55.896217"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "timestamp": "2026-05-29T11:34:56.624597"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "timestamp": "2026-05-29T11:34:56.889055"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "timestamp": "2026-05-29T11:34:57.087774"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "timestamp": "2026-05-29T11:34:57.351162"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "timestamp": "2026-05-29T11:34:57.507456"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 7,
+        "timestamp": "2026-05-29T11:34:58.253917"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 7,
+        "timestamp": "2026-05-29T11:34:58.419306"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "timestamp": "2026-05-29T11:35:06.749576"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "timestamp": "2026-05-29T11:35:07.043226"
+    },
+    {
+        "event_type": "test",
+        "track_id": 999,
+        "timestamp": "2026-05-29T12:00:00"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:08.223793"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:08.287758"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:08.485107"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:09.220173"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:09.537029"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:09.725846"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:09.995543"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:10.134751"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 7,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:10.846412"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 7,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:10.972269"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:19.342943"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T11:49:19.619088"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:29.120815"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:29.308517"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:29.505114"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:30.240944"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:30.504214"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:30.711578"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:30.976083"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:31.123098"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 7,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:31.976444"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 7,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:32.105430"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:40.550870"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:11:40.829515"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 1,
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T12:30:11.441591"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:11.588767"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:11.658624"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:11.869688"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:12.659329"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:12.930734"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:13.139763"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:13.415973"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:13.581038"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 7,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:14.313386"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 7,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:14.449472"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:23.470393"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:30:23.741953"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 1,
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T12:43:31.049492"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:31.163231"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:31.232818"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:31.436578"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:32.238047"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:32.522403"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:32.731392"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:32.993586"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:33.134799"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 7,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:33.870785"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 7,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:34.034779"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:42.441937"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T12:43:42.722931"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:25.857016"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 2,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:26.537308"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:26.815698"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:26.998748"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 5,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.118488"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.269841"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.274256"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 2,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.276649"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.279456"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.282066"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 5,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.285581"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.288365"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 9,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.879257"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 9,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.884947"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 5,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:27.946693"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:28.413897"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:28.655499"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:28.784028"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:29.414669"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:30.722912"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:30.784780"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 17,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:31.860592"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 17,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:31.864965"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 19,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:32.402548"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 19,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:32.408402"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 19,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:32.474237"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:32.719651"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:32.724413"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 23,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:32.953244"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 23,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:32.956647"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 23,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:33.017257"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:33.139636"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:33.315337"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:33.374075"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:33.378734"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:33.654849"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:33.942963"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:34.035511"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:34.323729"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:34.476662"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:34.625521"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:35.047371"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:35.053619"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:35.057950"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 9,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:35.061117"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 17,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:35.064331"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:35.067058"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:35.530003"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:35.535161"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 2,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:35.599207"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 32,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:36.110648"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 32,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:36.117077"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 32,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:36.399057"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 33,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:39.279810"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:39.285439"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 33,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:39.348229"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:39.469948"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 33,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:39.828806"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:40.197501"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 33,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:40.452351"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 35,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:42.282168"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 35,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:42.289828"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 35,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:42.537538"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 38,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:44.791425"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 38,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:44.796628"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 38,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:44.857801"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:46.070724"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:46.188549"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:46.538377"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:47.233537"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:47.633572"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:48.128782"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:48.250508"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 41,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:48.860472"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 41,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:48.865341"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 42,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:50.055007"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 42,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:50.068502"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 42,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:50.144441"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 43,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:52.086088"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 43,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:52.094164"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 41,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:25:53.367833"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:00.004662"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:00.013860"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:00.089054"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 45,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:00.373493"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 46,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:00.557083"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 45,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:00.562151"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 46,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:00.565426"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 46,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:00.626479"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 45,
+        "person_name": "Unknown",
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T13:26:00.750627"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:00.756248"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:00.874632"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:01.116805"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 46,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:01.123552"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 45,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:01.127411"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 45,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:01.261555"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:01.266604"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 46,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:01.269588"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:01.386955"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 46,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:01.391635"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 45,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:01.394692"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 46,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:01.516914"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:04.421261"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:04.653366"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:04.895682"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:05.023842"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:06.277692"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:06.660208"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:06.921441"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 49,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:08.756945"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 49,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:08.762530"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 49,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:09.331109"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 49,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:09.403400"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 49,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:09.469243"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 50,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:13.565532"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 50,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:13.571872"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:13.634410"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:13.757116"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 50,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:13.762323"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 50,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:13.879529"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:13.884262"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:14.007615"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:14.125967"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:14.484690"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 50,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:14.489668"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:19.878517"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:21.094245"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:21.212797"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:21.446947"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:22.111518"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:22.118829"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:22.184812"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:22.703423"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:24.122968"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:24.363398"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:25.543664"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:25.552543"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:25.618830"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:25.743016"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:25.864945"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:25.985910"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:25.991067"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:26.107691"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:26.840365"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:26.967198"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:27.089292"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:27.094960"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:27.333332"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:27.339161"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 43,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:27.717172"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 56,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:28.285522"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:28.291080"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 56,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:28.351090"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:28.413702"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 56,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:28.475249"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:28.589297"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 56,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:28.704093"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 61,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:29.261610"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 61,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:29.266947"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 61,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:29.443913"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 62,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:32.605077"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 62,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:32.610449"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 63,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:33.397405"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 63,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:33.402820"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 62,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:33.802860"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:33.915260"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 66,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:34.302940"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 66,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:34.309947"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:34.376023"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 69,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:35.315229"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 69,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:35.320579"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 66,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:35.384895"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:39.316030"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:39.789191"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:40.177270"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:40.333536"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:41.288295"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:42.208285"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:42.742898"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:42.860590"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:43.125639"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:43.372474"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 77,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:43.960241"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 77,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:43.964476"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:43.967445"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:44.303597"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 69,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:44.308951"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 77,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:44.312429"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 69,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:44.370389"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:44.375748"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:44.435518"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 69,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:44.441206"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 63,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:45.711454"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 63,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:46.871590"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 63,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:47.337895"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 63,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:47.689903"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 63,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:48.094077"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 78,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:50.531764"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 78,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:50.538370"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 78,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:51.613055"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 79,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:54.847961"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 80,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:55.266009"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 81,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:55.411840"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 81,
+        "person_name": "Unknown",
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T13:26:55.417352"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 80,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:55.420756"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:55.424805"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 79,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:55.428330"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 81,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:57.498413"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:57.618504"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 81,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:58.379588"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 84,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:58.809368"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 84,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:58.816297"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 84,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:58.941022"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 85,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:59.181048"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 85,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:59.186794"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 85,
+        "person_name": "Unknown",
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T13:26:59.247348"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 85,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:59.612874"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:59.744377"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 85,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:59.884392"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 81,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:26:59.890336"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 80,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:00.352337"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 85,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:00.357451"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 86,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:00.911730"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 87,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:01.228843"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 86,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:01.234482"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 87,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:01.238337"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 86,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:01.299745"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 79,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:01.305519"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 88,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:01.892500"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 88,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:01.898018"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 79,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:01.961025"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 88,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:02.196457"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 88,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:02.428440"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 79,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:02.435423"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 88,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:02.547257"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 91,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:04.613782"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 91,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:04.620663"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 91,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:04.680976"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 93,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:09.278810"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 93,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:09.286991"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:09.674164"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 93,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:09.680452"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 87,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:09.684902"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:09.805027"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 94,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:10.162064"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 94,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:10.167909"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:16.883602"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 94,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:16.890260"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 98,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:19.502169"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 98,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:27:19.509040"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:48:36.623531"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 2,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:48:39.698623"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:48:42.050471"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:48:44.173144"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 5,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:48:46.097552"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:48:48.108695"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:48.115547"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 2,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:48.120291"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:48.124489"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:48.128581"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 5,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:48.132508"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:48.136978"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 9,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:48:50.764380"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 9,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:50.771268"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 5,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:50.839592"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:51.414179"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:51.683989"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:51.879347"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:52.579000"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:53.978536"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:54.047903"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 17,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:48:57.014080"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 17,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:57.021621"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 19,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:48:59.387717"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 19,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:59.394077"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 19,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:48:59.456892"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:01.667164"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:01.673015"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 23,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:03.840647"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 23,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:03.847464"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 23,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:03.916089"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:04.052375"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:04.254588"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:04.348053"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:04.356315"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:04.654423"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:04.845354"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:04.913426"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:05.182880"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:05.310459"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:05.436763"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:05.817228"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:05.823707"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:05.828442"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 9,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:05.832356"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 17,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:05.838027"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:05.842591"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:08.286289"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:08.292661"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 2,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:08.354336"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 32,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:10.826222"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 32,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:10.832401"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 32,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:11.129697"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:16.390228"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:16.404362"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 33,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:16.475289"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:16.621146"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 33,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:16.991601"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:17.365373"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 33,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:17.626350"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 35,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:21.509984"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 35,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:21.516283"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 35,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:21.776485"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 38,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:26.394900"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 38,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:26.404512"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 38,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:26.491104"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:27.839543"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:27.974191"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:28.329266"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:29.116682"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:29.517254"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:30.048521"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:30.204152"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 41,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:33.009318"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 41,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:33.020623"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 42,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:36.966505"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 42,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:36.973736"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 42,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:37.041833"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 43,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:41.517728"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 43,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:41.524918"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 41,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:42.880803"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:54.528476"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:54.543756"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:54.671368"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 45,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:57.511707"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 46,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:49:59.955269"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 45,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:59.963310"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 46,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:49:59.970730"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 46,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:00.073805"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 45,
+        "person_name": "Unknown",
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T13:50:00.244863"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:00.252246"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:00.378587"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:00.719824"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 46,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:00.728914"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 45,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:00.737117"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 45,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:00.916826"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:00.927667"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 46,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:00.934864"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:01.078065"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 46,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:01.084678"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 45,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:01.090259"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 46,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:01.228059"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:04.505856"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:04.784122"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:05.057376"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:05.198741"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:06.477120"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:06.869891"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:07.189400"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 49,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:50:11.233240"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 49,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:11.238990"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 49,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:11.840975"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 49,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:11.903694"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 49,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:11.967535"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 50,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:50:18.737836"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 50,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:18.748760"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:18.818714"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:18.954713"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 50,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:18.961722"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 50,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:19.125859"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:19.135294"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:19.290374"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:19.420248"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:19.805161"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 50,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:19.812117"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:25.829687"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:27.105969"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:27.249374"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:27.506234"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:50:30.679441"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:30.689721"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:30.809619"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:31.322979"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:32.913043"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:33.191653"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:50:37.497874"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:37.517291"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:37.616969"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:37.850176"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:38.007501"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:38.162730"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:38.169544"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:38.295093"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:39.094410"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:39.227276"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:39.363876"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:39.370779"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:39.611406"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:39.618454"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 43,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:39.982220"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:50:42.720575"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:42.727031"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 56,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:42.793396"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:42.864771"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 56,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:42.933689"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:43.059924"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 56,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:43.224345"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 61,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:50:45.801644"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 61,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:45.808127"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 61,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:46.020120"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 62,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:50:52.283089"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 62,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:52.300557"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 63,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:50:56.967603"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 63,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:56.987794"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 62,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:57.536919"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:50:57.681085"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 66,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:51:00.355675"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 66,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:00.364321"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:00.456342"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 69,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:51:04.132127"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 69,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:04.144482"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 66,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:04.258003"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:08.748699"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:09.276784"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:09.728199"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:09.979397"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:11.135167"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:12.254221"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:12.828608"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:12.986015"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:13.307362"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:13.707600"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 77,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:51:19.000331"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 77,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:19.024801"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:19.031640"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:19.651360"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 69,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:19.666706"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 77,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:19.683268"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 69,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:19.882706"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:19.892378"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:19.989804"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 69,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:20.002493"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 63,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:21.932860"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 63,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:23.614509"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 63,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:24.234321"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 63,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:24.974097"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 63,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:25.451602"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 78,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:51:33.646093"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 78,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:33.671330"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 78,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:35.180273"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 79,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:51:41.505655"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 80,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:51:44.960096"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:51:47.325576"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 81,
+        "person_name": "Unknown",
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T13:51:47.332640"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 80,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:47.338932"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:47.344497"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 79,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:47.349896"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 81,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:50.054009"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:50.179795"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 81,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:50.941639"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 84,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:51:55.183019"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 84,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:55.211341"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 84,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:55.480252"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 85,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:51:57.991131"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 85,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:58.003071"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 85,
+        "person_name": "Unknown",
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T13:51:58.069231"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 85,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:58.478838"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:58.602185"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 85,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:58.734149"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 81,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:58.741399"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 80,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:59.359158"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 85,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:51:59.368435"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 86,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:52:02.637567"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 87,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:52:05.631123"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 86,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:05.643375"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 87,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:05.652161"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 86,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:05.814076"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 79,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:05.825598"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 88,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:52:09.126615"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 88,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:09.137441"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 79,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:09.219003"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 88,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:09.471823"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 88,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:09.717977"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 79,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:09.728689"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 88,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:09.844649"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 91,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:52:15.996582"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 91,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:16.018135"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 91,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:16.145645"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 93,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:52:25.144499"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 93,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:25.164391"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:25.861952"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 93,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:25.870934"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 87,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:25.880304"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:26.083588"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 94,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:52:30.309633"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 94,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:30.343188"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:39.461115"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 94,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:39.479558"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 98,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:52:45.509298"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 98,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:52:45.524215"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:59:33.248825"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 2,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:36.397591"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:59:38.862837"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 4,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:41.149613"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 5,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:43.138735"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:59:45.265605"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:45.272799"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 2,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:45.280017"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 3,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:45.286566"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:45.292646"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 5,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:45.299303"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:45.304799"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 9,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:47.858204"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 9,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:47.866149"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 5,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:47.933630"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:48.456630"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:48.721452"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:48.888668"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:49.630220"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:51.009341"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:51.078212"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 17,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:54.242189"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 17,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:54.248578"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 19,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:59:56.793645"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 19,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:56.802193"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 19,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:56.883560"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T13:59:59.089347"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T13:59:59.098279"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 23,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:01.218771"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 23,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:01.227505"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 23,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:01.306060"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:01.445806"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:01.640319"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:01.715698"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:01.724366"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:02.008274"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:02.227012"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 4,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:02.305982"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 6,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:02.559337"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:02.681232"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 20,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:02.806587"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 3,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:03.154440"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 4,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:03.161626"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 6,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:03.167994"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 9,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:03.173902"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 17,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:03.180120"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 20,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:03.186524"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:00:05.570239"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:05.577755"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 2,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:05.640317"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 32,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:00:08.086713"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 32,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:08.094082"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 32,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:08.415924"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:00:13.407387"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:13.415155"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 33,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:13.479125"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:13.606388"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 33,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:13.977748"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 33,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:14.316809"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 33,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:14.561735"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 35,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:18.150883"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 35,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:18.158178"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 35,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:18.400967"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 38,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:00:22.958645"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 38,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:22.967578"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 38,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:23.031996"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:24.320390"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:24.456714"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:24.817497"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:25.501073"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:25.859110"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 30,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:26.368102"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 30,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:26.524773"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 41,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:29.038983"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 41,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:29.051791"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 42,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:32.739552"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 42,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:32.757072"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 42,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:32.837115"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 43,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:37.154143"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 43,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:37.165153"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 41,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:38.490933"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 44,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:48.770455"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:48.789049"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:48.930867"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 45,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:51.249885"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 46,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:53.410908"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 45,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:53.419622"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 46,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:53.426755"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 46,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:53.502616"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 45,
+        "person_name": "person1",
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T14:00:53.675554"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:53.685394"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:53.826746"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:54.064607"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 46,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:54.071932"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 45,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:54.077917"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 45,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:54.202464"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:54.209791"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 46,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:54.217116"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:54.347501"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 46,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:54.355512"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 45,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:54.362708"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 46,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:54.501136"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:57.435993"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:57.673443"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:57.920234"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:58.041454"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:59.207262"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 44,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:59.639255"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 44,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:00:59.881288"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 49,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:04.162733"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 49,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:04.171179"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 49,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:04.758165"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 49,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:04.841335"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 49,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:04.915285"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 50,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:01:11.386964"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 50,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:11.399678"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:11.483093"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:11.612481"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 50,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:11.620359"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 50,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:11.736487"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:11.743570"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:11.862108"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:11.979415"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:12.345341"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 50,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:12.352767"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:17.856467"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:19.085247"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:19.209454"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:19.450322"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:01:22.566927"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:22.580999"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:22.652742"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:23.125764"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:24.589163"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:24.844788"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 53,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:29.008470"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:29.018582"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:29.087711"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:29.212576"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:29.338801"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:29.468330"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:29.476296"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 51,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:29.598042"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 51,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:30.369388"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:30.493144"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 1,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:30.614869"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:30.623321"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:30.864575"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 1,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:30.873121"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 43,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:31.247995"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:01:33.967269"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:33.975503"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 56,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:34.036158"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:34.100329"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 56,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:34.165813"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 56,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:34.286578"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 56,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:34.411073"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 61,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:01:36.949692"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 61,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:36.957698"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 61,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:37.139969"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 62,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:01:42.220707"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 62,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:42.228128"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 63,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:45.874427"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 63,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:45.882328"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 62,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:46.341670"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:46.473718"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 66,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:48.977179"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 66,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:48.985506"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:49.054470"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 69,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:52.405440"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 69,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:52.416481"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 66,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:52.492761"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:56.473842"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:57.001191"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:57.390881"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:57.519930"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:01:58.489768"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:00.329923"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:01.089974"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:01.228003"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:01.478436"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:01.748268"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 77,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:02:05.402214"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 77,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:05.420370"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:05.429852"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:05.849039"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 69,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:05.858464"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 77,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:05.866412"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 69,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:05.940964"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:05.952482"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:06.033238"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 69,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:06.042852"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 63,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:07.507418"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 63,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:08.731081"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 63,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:09.245027"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 63,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:09.645375"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 63,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:10.041163"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 78,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:14.750914"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 78,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:14.762911"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 78,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:15.865863"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 79,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:21.399608"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 80,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:02:24.470528"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:02:26.402702"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 81,
+        "person_name": "Unknown",
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T14:02:26.414119"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 80,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:26.425100"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:26.435244"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 79,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:26.445109"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 81,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:28.635113"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:28.759894"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 81,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:29.583852"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 84,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:02:32.044214"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 84,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:32.052128"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 84,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:32.201319"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 85,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:02:34.387656"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 85,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:34.396881"
+    },
+    {
+        "event_type": "zone_intrusion",
+        "track_id": 85,
+        "person_name": "Unknown",
+        "threat_score": 0.7,
+        "severity": "L2",
+        "timestamp": "2026-05-29T14:02:34.462649"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 85,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:34.880977"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 81,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:35.003056"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 85,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:35.132913"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 81,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:35.141599"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 80,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:35.669493"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 85,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:35.678319"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 86,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:38.281408"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 87,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:40.753401"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 86,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:40.761768"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 87,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:40.769110"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 86,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:40.841646"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 79,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:40.851595"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 88,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:44.011621"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 88,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:44.026881"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 79,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:44.112390"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 88,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:44.358619"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 88,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:44.595202"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 79,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:44.603297"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 88,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:44.723048"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 91,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:48.724024"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 91,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:48.736157"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 91,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:48.804420"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 93,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:02:55.610422"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 93,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:55.618552"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:56.009538"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 93,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:56.020214"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 87,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:56.029406"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 53,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:56.150600"
+    },
+    {
+        "event_type": "known_person",
+        "track_id": 94,
+        "person_name": "person1",
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:58.505181"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 94,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:02:58.514801"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 53,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:03:05.530477"
+    },
+    {
+        "event_type": "person_exited",
+        "track_id": 94,
+        "threat_score": 0.0,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:03:05.548158"
+    },
+    {
+        "event_type": "unknown_person",
+        "track_id": 98,
+        "threat_score": 0.1,
+        "severity": "L3",
+        "timestamp": "2026-05-29T14:03:10.207039"
+    },
+    {
+        "event_type": "person_detected",
+        "track_id": 98,
+        "threat_score": 0.1,
+        "severity": "L1",
+        "timestamp": "2026-05-29T14:03:10.216555"
+    }
+]

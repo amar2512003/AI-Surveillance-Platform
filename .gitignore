@@ -1,0 +1,29 @@
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Databases
+*.db
+
+# Videos
+*.mp4
+*.MP4
+
+# Models
+*.pt
+*.pth
+
+# Mac
+.DS_Store
+
+# Environment
+.env
+
+# Build
+dist/

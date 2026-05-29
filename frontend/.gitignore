@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Videos
+*.mp4
+*.MP4
+
+# YOLO weights
+*.pt
+*.pth
